@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(Jari2.jpg) no-repeat center center fixed;
+    background-size:cover ;
+}
+.container{
+
+    color: white;
+    position: absolute;
+    top: 11%;
+    left: 58%;
+    } 
+    .container b{
+        display: inline-block;
+        font-size: 40px;
+        border-bottom: 4px solid white;
+        margin-bottom: 1px;
+        padding: 10px 0;
+    }
+    .box {
+        width: 100%;
+        margin: 22px 0px;
+        border-bottom: solid 2px white;
+    }
+    .DOB{
+        color: white;
+        cursor: pointer;
+        outline: none;
+        margin: 5px 5;
+        padding: 6px;
+        opacity: 0.9;
+        color: white;
+    
+       }
+       .box input{
+            background: none;
+            border-bottom: solid 2px white;
+            padding: 5px 10px;
+            font-size: 17px;
+            outline: none;
+            color: white;
+       }
+       .btn{
+        color: white;
+       cursor: pointer;
+       outline: none;
+       width: 25%;
+       margin: 5px 5;
+       padding: 6px;
+       border: 2px solid white;
+       border-radius: 10px;
+       font-size: 13px;
+       background: none;
+       }
+       .btn:hover{
+        opacity: 0.9;
+        color: white;
+        background:rgb(231, 122, 122);
+    }
+      
